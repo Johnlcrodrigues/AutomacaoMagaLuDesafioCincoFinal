@@ -35,8 +35,7 @@ Os testes são feitos em prd, portanto, em algum momento  será necessário conf
 - Gabriel Righi
 - Henrique Massmann
 - John Rodrigues
-
-Talita Caroline S. Augusto
+- Talita Caroline S. Augusto
 
 
 <a href="https://www.mindmeister.com/pt/map/2229777493?t=T7aIQImTXD"> Clique aqui e veja nosso MindMap</a>
