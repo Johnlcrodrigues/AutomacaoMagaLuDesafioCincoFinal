@@ -7,6 +7,7 @@
 
 - [Descrição](#descrição)
   - [O Desafio](#o-desafio)
+  - [Integrantes](#integrantes)
 
 
 ### Descrição
@@ -29,7 +30,7 @@ Testes a executar:
 
 Os testes são feitos em prd, portanto, em algum momento  será necessário confirmar que não é um robô. Neste momento, pause os testes e confirme a autenticidade ou abra o site fora dos testes e navegue para validar o acesso.
 
-Integrantes: 
+##### Integrantes: 
 Alexandra Reshotka Seratto
 Gabriel Righi
 Henrique Massmann
