@@ -1,5 +1,5 @@
 # AutomacaoMagaLuDesafioCinco
-## Automação do desafio 5 
+## Automação Desafio 5 
 <br>
 
 <img src="https://user-images.githubusercontent.com/61709319/162807240-9aaf60f7-5b05-4974-bb65-b4ca24c05c5b.jpg"
@@ -20,12 +20,21 @@ A proposta do desafio é construir uma estratégia de Testes e um Projeto de Tes
 Testes a executar:
 
 - Busca por produto através de filtro;
-- Navegação em tela e clique no produto desejado;
+- Navegação em tela;
+- Clique no produto desejado;
 - Adição dele ao carrinho de compras;
-- Verificar quantidade inserida.
+- Remoção do Produto;
+- Validação da sacola vazia.
 
-Quando o usuário clicar em "Confirmar compra", deverá apresentar mensagem que é necessário fazer o login para prosseguir com a compra.
+
+Os testes são feitos em prd, portanto, em algum momento  será necessário confirmar que não é um robô. Neste momento, pause os testes e confirme a autenticidade ou abra o site fora dos testes e navegue para validar o acesso.
+
+Integrantes: 
+Alexandra Reshotka Seratto
+Gabriel Righi
+Henrique Massmann
+John Rodrigues
+Talita Caroline S. Augusto
 
 
 <a href="https://www.mindmeister.com/pt/map/2229777493?t=T7aIQImTXD"> Clique aqui e veja nosso MindMap</a>
-
