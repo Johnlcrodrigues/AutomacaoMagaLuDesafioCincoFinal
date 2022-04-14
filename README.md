@@ -31,10 +31,11 @@ Testes a executar:
 Os testes são feitos em prd, portanto, em algum momento  será necessário confirmar que não é um robô. Neste momento, pause os testes e confirme a autenticidade ou abra o site fora dos testes e navegue para validar o acesso.
 
 ##### Integrantes: 
-Alexandra Reshotka Seratto
-Gabriel Righi
-Henrique Massmann
-John Rodrigues
+- Alexandra Reshotka Seratto
+- Gabriel Righi
+- Henrique Massmann
+- John Rodrigues
+
 Talita Caroline S. Augusto
 
 
